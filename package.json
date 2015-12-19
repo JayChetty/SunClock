@@ -1,8 +1,8 @@
 {
   "name": "sun-clock",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "24 hour clock capable of showing times",
+  "main": "sun_clock_factory.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
